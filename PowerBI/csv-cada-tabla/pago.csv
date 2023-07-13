@@ -1,0 +1,59 @@
+"ID_pago";"ID_cliente";"metodo_pago";"total"
+1;1;"Mercado pago";2000.0
+2;2;"Mercado pago";2000.0
+3;3;"Efectivo";1000.0
+4;4;"Efectivo";1000.0
+5;5;"Mercado pago";100000.0
+6;6;"Mercado pago";3200.0
+7;7;"Efectivo";3300.0
+8;8;"Efectivo";6000.0
+9;9;"Efectivo";80000.0
+10;10;"Mercado pago";4800.0
+11;11;"Efectivo";12000.0
+12;12;"Mercado pago";120000.0
+13;13;"Efectivo";800.0
+14;14;"Mercado pago";100000.0
+15;15;"Mercado pago";120000.0
+16;16;"Efectivo";2400.0
+17;17;"Efectivo";2200.0
+18;18;"Mercado pago";160000.0
+19;19;"Mercado pago";9000.0
+20;20;"Efectivo";2000.0
+21;1;"Mercado pago";1600.0
+22;2;"Efectivo";1000.0
+23;3;"Mercado pago";2000.0
+24;4;"Efectivo";80000.0
+25;5;"Mercado pago";1000.0
+26;6;"Mercado pago";2400.0
+27;7;"Efectivo";2200.0
+28;8;"Efectivo";3000.0
+29;9;"Mercado pago";27000.0
+30;1;"Efectivo";2400.0
+31;10;"Mercado pago";2000.0
+32;12;"Mercado pago";2400.0
+33;3;"Efectivo";2000.0
+34;4;"Efectivo";1000.0
+35;15;"Mercado pago";1000.0
+36;6;"Mercado pago";1600.0
+37;7;"Efectivo";1100.0
+38;8;"Mercado pago";9000.0
+39;9;"Efectivo";18000.0
+40;4;"Efectivo";3200.0
+41;12;"Efectivo";1800.0
+42;2;"Mercado pago";2000.0
+43;13;"Mercado pago";800.0
+44;14;"Mercado pago";80000.0
+45;15;"Mercado pago";2000.0
+46;16;"Mercado pago";1800.0
+47;17;"Mercado pago";1100.0
+48;18;"Efectivo";6000.0
+49;19;"Mercado pago";9000.0
+50;10;"Mercado pago";6000.0
+51;11;"Mercado pago";18000.0
+52;12;"Efectivo";2000.0
+53;13;"Mercado pago";1000.0
+54;14;"Mercado pago";1000.0
+55;15;"Mercado pago";1000.0
+56;1;"Mercado pago";2000.0
+57;3;"Mercado pago";2000.0
+58;1;"Efectivo";1200.0

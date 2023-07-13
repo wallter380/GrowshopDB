@@ -1,0 +1,7 @@
+"ID_repartidor";"nombre";"apellido";"DNI";"vehiculo";"direccion";"email";"fecha_nacimiento"
+1;"Carlos";"Gómez";12345678;"Camioneta";"Nueva York 2345, Villa Devoto";"carlos@example.com";"1990-05-15"
+2;"Ana";"López";87654321;"Motocicleta";"Rivadavia 4321, Ciudadela";"ana@example.com";"1995-08-20"
+3;"Pedro";"Ramírez";56789012;"Bicicleta";"De la Guitarra 876, Villa Ballester";"pedro@example.com";"1988-12-10"
+4;"Pedro";"González";11111111;"Moto";"Calle San Juan 123, Villa Ballester";"pedro.gonzalez@example.com";"1990-05-01"
+5;"María";"Rodríguez";22222222;"Camioneta chica";"Calle San Luis 456, Villa Ballester";"maria.rodriguez@example.com";"1992-08-15"
+6;"Javier";"López";33333333;"Camioneta chica";"Calle San Martín 789, Villa Ballester";"javier.lopez@example.com";"1988-11-10"
